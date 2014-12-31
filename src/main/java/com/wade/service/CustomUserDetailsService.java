@@ -1,4 +1,4 @@
-package com.sprsec.service;
+package com.wade.service;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -14,7 +14,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.sprsec.dao.UserDAO;
+import com.wade.dao.UserDAO;
 
 @Service
 @Transactional(readOnly=true)
@@ -26,7 +26,7 @@ public class CustomUserDetailsService implements UserDetailsService {
 	public UserDetails loadUserByUsername(String login)
 			throws UsernameNotFoundException {
 		
-		com.sprsec.model.User domainUser = userDAO.getUser(login);
+		com.wade.model.User domainUser = userDAO.getUser(login);
 		
 		boolean enabled = true;
 		boolean accountNonExpired = true;

@@ -1,4 +1,4 @@
-package com.sprsec.model;
+package com.wade.model;
 
 import java.util.Set;
 

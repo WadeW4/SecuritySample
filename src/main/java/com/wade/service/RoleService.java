@@ -1,6 +1,6 @@
-package com.sprsec.service;
+package com.wade.service;
 
-import com.sprsec.model.Role;
+import com.wade.model.Role;
 
 public interface RoleService {
 	

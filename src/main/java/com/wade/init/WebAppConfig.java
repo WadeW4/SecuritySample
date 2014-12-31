@@ -1,4 +1,4 @@
-package com.sprsec.init;
+package com.wade.init;
 
 import java.util.Properties;
 
@@ -22,7 +22,7 @@ import org.springframework.web.servlet.view.UrlBasedViewResolver;
 @Configuration
 @EnableWebMvc
 @EnableTransactionManagement
-@ComponentScan("com.sprsec")
+@ComponentScan("com.wade")
 @PropertySource("classpath:application.properties")
 @ImportResource("classpath:spring-security.xml")
 public class WebAppConfig {

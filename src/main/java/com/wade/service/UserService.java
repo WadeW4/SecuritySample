@@ -1,6 +1,6 @@
-package com.sprsec.service;
+package com.wade.service;
 
-import com.sprsec.model.User;
+import com.wade.model.User;
 
 public interface UserService {
 	

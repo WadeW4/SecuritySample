@@ -1,6 +1,6 @@
-package com.sprsec.dao;
+package com.wade.dao;
 
-import com.sprsec.model.User;
+import com.wade.model.User;
 
 public interface UserDAO {
 	

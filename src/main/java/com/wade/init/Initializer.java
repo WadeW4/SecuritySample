@@ -1,4 +1,4 @@
-package com.sprsec.init;
+package com.wade.init;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
