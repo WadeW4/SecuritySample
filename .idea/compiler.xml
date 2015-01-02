@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="QBPortal" />
         <module name="security-spr" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="QBPortal" target="1.7" />
       <module name="security-spr" target="1.7" />
     </bytecodeTargetLevel>
   </component>
