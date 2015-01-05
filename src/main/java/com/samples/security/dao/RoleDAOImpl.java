@@ -1,12 +1,11 @@
-package com.wade.dao;
+package com.samples.security.dao;
 
+import com.samples.security.model.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
-
-import com.wade.model.Role;
 
 @Repository
 public class RoleDAOImpl implements RoleDAO {

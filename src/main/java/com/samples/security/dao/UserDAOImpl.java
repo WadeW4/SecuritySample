@@ -1,4 +1,4 @@
-package com.wade.dao;
+package com.samples.security.dao;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,7 +9,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;
 
-import com.wade.model.User;
+import com.samples.security.model.User;
 
 @Repository
 public class UserDAOImpl implements UserDAO {

@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `securityspr` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `securityspr`;
+CREATE DATABASE  IF NOT EXISTS `SecuritySample` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `SecuritySample`;
 -- MySQL dump 10.13  Distrib 5.6.17, for Win64 (x86_64)
 --
 -- Host: 127.0.0.1    Database: securityspr

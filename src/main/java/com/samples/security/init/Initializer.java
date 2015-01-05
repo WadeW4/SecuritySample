@@ -1,4 +1,4 @@
-package com.wade.init;
+package com.samples.security.init;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;

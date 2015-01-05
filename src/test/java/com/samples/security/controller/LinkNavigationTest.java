@@ -1,4 +1,4 @@
-package com.wade.controller;
+package com.samples.security.controller;
 
 import static org.junit.Assert.assertEquals;
 

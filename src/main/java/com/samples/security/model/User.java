@@ -1,4 +1,4 @@
-package com.wade.model;
+package com.samples.security.model;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;

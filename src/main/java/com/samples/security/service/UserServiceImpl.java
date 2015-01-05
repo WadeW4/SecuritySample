@@ -1,13 +1,13 @@
-package com.wade.service;
+package com.samples.security.service;
 
+import com.samples.security.dao.UserDAO;
 import org.springframework.transaction.annotation.Transactional;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.wade.dao.UserDAO;
-import com.wade.model.User;
+import com.samples.security.model.User;
 
 @Service
 @Transactional

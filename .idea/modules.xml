@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QBPortal.iml" filepath="$PROJECT_DIR$/QBPortal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecuritySample.iml" filepath="$PROJECT_DIR$/SecuritySample.iml" />
     </modules>
   </component>
 </project>
