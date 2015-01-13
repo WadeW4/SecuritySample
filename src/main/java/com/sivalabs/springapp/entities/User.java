@@ -1,7 +1,11 @@
 /**
- *
+ * 
  */
 package com.sivalabs.springapp.entities;
+
+import java.util.Date;
+import java.util.HashSet;
+import java.util.Set;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
@@ -13,93 +17,91 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
-import java.util.Date;
-import java.util.HashSet;
-import java.util.Set;
 
 /**
  * @author katsi02
+ *
  */
 @Entity
-@Table(name = "USERS")
-public class User {
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    private int id;
-    private String name;
-    @Column(nullable = false, unique = true)
-    private String email;
-    @Column(nullable = false)
-    private String password;
-    private Date dob;
+@Table(name="USERS")
+public class User 
+{
+	@Id @GeneratedValue(strategy=GenerationType.AUTO)
+	private int id;
+	private String name;
+	@Column(nullable=false, unique=true)
+	private String email;
+	@Column(nullable=false)
+	private String password;
+	private Date dob;
+	
+	@OneToMany(fetch=FetchType.EAGER, cascade=CascadeType.ALL)
+	@JoinColumn(name="user_id")
+	private Set<Role> roles = new HashSet<>();
+	
+	public User() {
+	}
 
-    @OneToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
-    @JoinColumn(name = "user_id")
-    private Set<Role> roles = new HashSet<>();
+	public User(int id, String name, String email, String password, Date dob) {
+		this.id = id;
+		this.name = name;
+		this.email = email;
+		this.password = password;
+		this.dob = dob;
+	}
 
-    public User() {
-    }
+	@Override
+	public String toString() {
+		return "User [id=" + id + ", name=" + name + ", email=" + email
+				+ ", dob=" + dob + "]";
+	}
 
-    public User(int id, String name, String email, String password, Date dob) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.password = password;
-        this.dob = dob;
-    }
+	public int getId() {
+		return id;
+	}
 
-    @Override
-    public String toString() {
-        return "User [id=" + id + ", name=" + name + ", email=" + email
-                + ", dob=" + dob + "]";
-    }
+	public void setId(int id) {
+		this.id = id;
+	}
 
-    public int getId() {
-        return id;
-    }
+	public String getName() {
+		return name;
+	}
 
-    public void setId(int id) {
-        this.id = id;
-    }
+	public void setName(String name) {
+		this.name = name;
+	}
 
-    public String getName() {
-        return name;
-    }
+	public String getEmail() {
+		return email;
+	}
 
-    public void setName(String name) {
-        this.name = name;
-    }
+	public void setEmail(String email) {
+		this.email = email;
+	}
 
-    public String getEmail() {
-        return email;
-    }
+	public String getPassword() {
+		return password;
+	}
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
+	public void setPassword(String password) {
+		this.password = password;
+	}
 
-    public String getPassword() {
-        return password;
-    }
+	public Date getDob() {
+		return dob;
+	}
 
-    public void setPassword(String password) {
-        this.password = password;
-    }
+	public void setDob(Date dob) {
+		this.dob = dob;
+	}
 
-    public Date getDob() {
-        return dob;
-    }
+	public Set<Role> getRoles() {
+		return roles;
+	}
 
-    public void setDob(Date dob) {
-        this.dob = dob;
-    }
-
-    public Set<Role> getRoles() {
-        return roles;
-    }
-
-    public void setRoles(Set<Role> roles) {
-        this.roles = roles;
-    }
-
+	public void setRoles(Set<Role> roles) {
+		this.roles = roles;
+	}
+	
 }
