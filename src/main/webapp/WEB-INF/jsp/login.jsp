@@ -25,6 +25,7 @@
 			<div class="col-md-6 col-md-offset-2">
 				<h2>User Login Form</h2>
 				<form:form id="loginForm" method="post" action="${rootURL}login" modelAttribute="user" class="form-horizontal" role="form" cssStyle="width: 800px; margin: 0 auto;">
+					<input type="hidden" text="${_csrf.parameterName}" value="${_csrf.token}" />
 					<div class="form-group">
 						<label for="username" class="col-sm-2 control-label">UserName*</label>
 						<div class="col-sm-4">
