@@ -32,15 +32,15 @@ public class UserServiceTest
 	
 	@Test
 	public void findAllUsers()  {
-//		List<User> users = userService.findAll();
-//		assertNotNull(users);
-		//assertTrue(!users.isEmpty());
+		List<User> users = userService.findAll();
+		assertNotNull(users);
+		assertTrue(!users.isEmpty());
 	}
 	
 	@Test
 	public void findUserById()  {
-		//User user = userService.findUserById(1);
-		//assertNotNull(user);
+		User user = userService.findUserById(1);
+		assertNotNull(user);
 	}
 	
 	@Test
