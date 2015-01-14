@@ -10,7 +10,7 @@
     <name>Spring Security Demo App</name>
 
     <properties>
-        <java.version>1.7</java.version>
+        <java.version>1.8</java.version>
 
         <hibernate.version>4.3.7.Final</hibernate.version>
 
@@ -168,7 +168,6 @@
                     </execution>
                 </executions>
             </plugin>
-<!--
             <plugin>
                 <groupId>net.alchim31.maven</groupId>
                 <artifactId>yuicompressor-maven-plugin</artifactId>
@@ -193,8 +192,6 @@
                     </execution>
                 </executions>
             </plugin>
--->
-<!--
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
@@ -211,7 +208,6 @@
                     <webXml>src/main/webapp/WEB-INF/web.xml</webXml>
                 </configuration>
             </plugin>
--->
         </plugins>
         <resources>
             <resource>
@@ -226,6 +222,13 @@
                 <includes>
                     <include>**/*.xml</include>
                     <include>**/*.properties</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/webapp/WEB-INF/jsp</directory>
+                <targetPath>${basedir}\target\${project.build.finalName}\WEB-INF\jsp</targetPath>
+                <includes>
+                    <include>**/*.jsp</include>
                 </includes>
             </resource>
         </resources>
