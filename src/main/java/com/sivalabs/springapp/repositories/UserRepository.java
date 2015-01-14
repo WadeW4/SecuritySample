@@ -1,19 +1,18 @@
 package com.sivalabs.springapp.repositories;
 
-import java.io.Serializable;
-
+import com.sivalabs.springapp.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
-import com.sivalabs.springapp.entities.User;
+import java.io.Serializable;
 
-public interface UserRepository extends JpaRepository<User, Serializable>{
+public interface UserRepository extends JpaRepository<User, Serializable> {
 
-	@Query("select u from User u where u.email=?1 and u.password=?2")
-	User login(String email, String password);
+    @Query("select u from User u where u.email=?1 and u.password=?2")
+    User login(String email, String password);
 
-	User findByEmailAndPassword(String email, String password);
+    User findByEmailAndPassword(String email, String password);
 
-	User findUserByEmail(String email);
+    User findUserByEmail(String email);
 
 }

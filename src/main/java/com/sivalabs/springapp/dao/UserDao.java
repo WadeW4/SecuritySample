@@ -1,24 +1,12 @@
-/**
- * 
- */
 package com.sivalabs.springapp.dao;
-
-import java.util.List;
 
 import com.sivalabs.springapp.entities.User;
 
-/**
- * @author katsi02
- *
- */
+import java.util.List;
+
 public interface UserDao {
-
-	public List<User> findAll();
-	
-	public User create(User user);
-	
-	public User findUserById(int id);
-
-	public User login(String email, String password);
-	
+    List<User> findAll();
+    User create(User user);
+    User findUserById(int id);
+    User login(String email, String password);
 }
