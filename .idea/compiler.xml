@@ -30,7 +30,7 @@
     <bytecodeTargetLevel>
       <module name="QBPortal" target="1.7" />
       <module name="security-spr" target="1.7" />
-      <module name="SecuritySample" target="1.7" />
+      <module name="SecuritySample" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -20,8 +20,26 @@ public class UserController {
     @Autowired
     private UserService userService;
 
-    @RequestMapping(value = { "/", "/welcome" })
-    public String home(SitePreference sitePreference, Model model) {
+    @RequestMapping(value = { "/" })
+    public String index(SitePreference sitePreference, Model model) {
+        model.addAttribute("user", getCurrentUser());
+        if (sitePreference == SitePreference.NORMAL) {
+            logger.info("Site preference is normal");
+            return "index";
+        } else if (sitePreference == SitePreference.MOBILE) {
+            logger.info("Site preference is mobile");
+            return "index";
+        } else if (sitePreference == SitePreference.TABLET) {
+            logger.info("Site preference is tablet");
+            return "inddex";
+        } else {
+            logger.info("no site preference");
+            return "index";
+        }
+    }
+
+    @RequestMapping(value = { "/welcome" })
+    public String welcome(SitePreference sitePreference, Model model) {
         model.addAttribute("user", getCurrentUser());
         if (sitePreference == SitePreference.NORMAL) {
             logger.info("Site preference is normal");

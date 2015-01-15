@@ -1,6 +1,3 @@
-/**
- *
- */
 package com.sivalabs.springapp.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -32,8 +29,8 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http
                 .csrf().disable()
                 .authorizeRequests()
-                .antMatchers("/login", "/login/form**", "/register", "/logout").permitAll()
-                .antMatchers("/", "/admin", "/admin/**").hasRole("ADMIN")
+                .antMatchers("/", "/login", "/login/form**", "/register", "/logout").permitAll()
+                .antMatchers("/welcome", "/admin", "/admin/**").hasRole("ADMIN")
                 .anyRequest().authenticated()
                 .and()
                 .formLogin()

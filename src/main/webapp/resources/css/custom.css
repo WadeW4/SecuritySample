@@ -1,0 +1,48 @@
+
+/* =General Styles
+----------------------------------------------------------------- */
+body { font-family: Arial, Helvetica, sans-serif; background:#fff; color:#555; font-size:12px; line-height:22px; }
+a:hover { text-decoration:underline; color:#222; }
+a:active { color:#222; }
+
+/* general buttons */
+a.small-button, a.small-button:visited { color:#fff !important; background:#B7D4E6; }
+a.small-button:hover, a.small-button:active { background:#435D6E;}
+
+/* misc */
+a.arrow-link { background:url(images/arrow_right.png) no-repeat right 4px; margin-right:20px; padding-right:13px; font-size:11px; }
+
+/* =Header
+----------------------------------------------------------------- */
+#header-wrapper { background:#7d99a7 url(images/bg.jpg) top center no-repeat; }
+
+/* start of styles of drop-down menu */
+.jqueryslidemenu ul li a, .jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited,.jqueryslidemenu ul ul li a, .jqueryslidemenu ul ul li a:link, .jqueryslidemenu ul ul li a:visited ,.jqueryslidemenu ul ul {color:#5f5f5f; }
+
+/* =Page Content : small intro, intro, wrapper
+----------------------------------------------------------------- */
+
+.intro h2, .intro h1, #featured-boxes h3, #blogrest .thumb-title, #entries h2, #entries h2 a, #entries h2 a:visited, .news-title, .news-title a, .news-title a:visited, #folio h2, #folio h2 a, #folio h2 a:visited, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6, .special-title, .timer_text , .widget h3, .widget .date, .thumb-list .date, .thumb-list li a, #sidebar .thumb-list li a:visited,a.small-button,a.button, a.small-button:visited, a, a:visited  { color:#435D6E; }
+
+/* call-to-action button */
+.cta-button { background:  url(images/cta.png) no-repeat right -60px; padding-right:43px; height:58px; font:normal 18px Arial, Helvetica, sans-serif; display:inline-block; margin-left:5px; margin-top:0; }
+.cta-button span { background: url(images/cta.png) no-repeat left 0; display:block; color:#dededf; font-size: 18px; line-height:17px; padding:18px 0 22px 43px; }
+.cta-button:hover { background:  url(images/cta.png) no-repeat right -186px; padding-right:43px; height:58px; font:normal 18px Arial, Helvetica, sans-serif; display:inline-block; margin-left:5px; margin-top:0; text-decoration:none; }
+.cta-button:hover span { background: url(images/cta.png) no-repeat left -126px; display:block; color:#dededf; font-size: 18px; line-height:17px; padding:18px 0 22px 43px; }
+
+/* =Footer
+----------------------------------------------------------------- */
+#footer-twitter .tweet { font:11px/19px Verdana, Geneva, sans-serif; color:#666; padding-top:15px; width:640px; }
+#footer-twitter .twitterTime a, #footer-twitter .twitterTime a:visited { font-weight:bold; color:#555; }
+#footer-wrapper { width:100%; background:#B7D4E6 url(images/bg.jpg) top center no-repeat }
+#footer { width:960px; padding-bottom:40px; margin:0 auto; color: #fff; }
+#footer .block h3 { font-size:20px; font-weight:400; color:#fff; padding:0 0 15px; }
+#footer .block ul li, #footer .block ul li a { font:11px/18px Arial, Helvetica, sans-serif; color:#555; }
+#footer .textwidget { color: #555; font-size:11px; padding-top:5px; }
+
+/* subfooter */
+#subfooter-wrapper { background:url(images/sub_footer_bg.jpg) repeat-x; }
+#subfooter p { position:absolute; top:14px; left:0; font:11px Verdana, Arial, Helvetica, sans-serif; color:#8e8e8e; }
+#subfooter p a, #subfooter p a:visited { color:#fff; }
+#footer-pages li { font-family: Verdana, arial, sans-serif; font-size:10px; letter-spacing:0.12em; float:left; margin-left:10px; line-height:12px; border-right: 1px solid #eee; }
+#footer-pages a, #footer-pages a:visited, #footer-pages a:hover { color:#ddd; margin-right:10px; text-transform:uppercase; }
