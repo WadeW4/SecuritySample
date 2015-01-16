@@ -13,8 +13,13 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 public class LoginController {
-    @RequestMapping(value = {"/", "/home"})
-    public String getUserDefault() {
+    @RequestMapping(value = {"/"})
+    public String index() {
+        return "index";
+    }
+
+    @RequestMapping(value = {"/home"})
+    public String home() {
         return "home";
     }
 
