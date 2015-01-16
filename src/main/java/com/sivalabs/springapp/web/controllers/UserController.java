@@ -16,6 +16,11 @@ public class UserController {
 
     @RequestMapping(value = { "/" })
     public String getUserDefault() {
+        return "index";
+    }
+
+    @RequestMapping(value = { "/welcome" })
+    public String welcome() {
         return "welcome";
     }
 
