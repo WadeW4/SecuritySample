@@ -231,7 +231,7 @@
                 <directory>src/main/webapp/WEB-INF/jsp</directory>
                 <targetPath>${basedir}\target\${project.build.finalName}\WEB-INF\jsp</targetPath>
                 <includes>
-                    <include>**/*.jsp</include>
+                    <include>**/*.gif</include>
                 </includes>
             </resource>
         </resources>

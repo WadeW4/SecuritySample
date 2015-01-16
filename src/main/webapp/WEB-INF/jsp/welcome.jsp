@@ -8,6 +8,7 @@
 		<link   rel="stylesheet" type="text/css" href="${rootURL}resources/themes/start/theme-min.css"  />
 		<script type="text/javascript"           src="${rootURL}resources/jquery/jquery-min.js"></script>
 		<script type="text/javascript"           src="${rootURL}resources/jquery/jquery-ui-min.js"></script>
+		<script type="text/javascript"           src="${rootURL}resources/jquery/jquery.jcarousel-min.js"></script>
 	</head>
 	<body>
 		<h2>Welcome <%=UserController.getCurrentUser().getName() %> </h2>
