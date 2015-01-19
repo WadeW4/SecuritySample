@@ -20,7 +20,7 @@ import static org.junit.Assert.assertTrue;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = AppConfig.class)
-public class UserServiceTest {
+public class UserServiceITest {
     @Autowired
     private UserService userService;
 
