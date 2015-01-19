@@ -7,13 +7,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<title>Quinn & Banton - St. Louis Estate Planning, Elder Law and Business Law</title>
-	<link type="text/css" href="${rootURL}resources/css/bootstrap.css" rel="stylesheet" />
+	<link   rel="stylesheet" type="text/css" href="${rootURL}resources/css/bootstrap.css" />
+	<link   rel="stylesheet" type="text/css" href="${rootURL}resources/themes/start/jquery-ui.css"  />
+	<link   rel="stylesheet" type="text/css" href="${rootURL}resources/themes/start/jquery-ui.theme.css"  />
+	<link   rel="stylesheet" type="text/css" href="${rootURL}resources/css/jqueryslidemenu.css"  />
+	<link   rel="stylesheet" type="text/css" href="${rootURL}resources/css/SecuritySample.css"  />
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
 	<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
-
+	<script type="text/javascript"           src="${rootURL}resources/js/jquery.js"></script>
+	<script type="text/javascript"           src="${rootURL}resources/js/jquery-ui-min.js"></script>
+	<script type="text/javascript"           src="${rootURL}resources/js/jqueryslidemenu-min.js"></script>
 </head>
 <body>
 <!-- NAVBAR
@@ -178,7 +184,6 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script type="text/javascript"           src="${rootURL}resources/js/jquery.js"></script>
 <script type="text/javascript"           src="${rootURL}resources/js/bootstrap.js"></script>
 <script type="text/javascript"           src="${rootURL}resources/js/docs.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -187,7 +192,7 @@
 <!-- jssor slider scripts-->
 <!-- use jssor.js + jssor.slider.min.js instead for development -->
 <!-- jssor.slider.mini.js = (jssor.js + jssor.slider.min.js) -->
-<script type="text/javascript"           src="${rootURL}resources/js//jssor.slider.js"></script>
+<script type="text/javascript"           src="${rootURL}resources/js/jssor.slider.js"></script>
 <script>
 
 	jQuery(document).ready(function ($) {
