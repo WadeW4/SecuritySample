@@ -1,99 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="233ba418-4bdc-40ee-abdb-21ab8080fc55" name="Default" comment="working slide show">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img1_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img2_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img3_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img4_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img5_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/img/img6_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/fonts/slick.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/fonts/slick.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/fonts/slick.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/CONTRIBUTING.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/animation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/autoscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/center.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/core_plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/ajax/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/autoscroll/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/control/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/pagination/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/scrollintoview/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/dynamic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/control/event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/focus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/hidden.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/horizontal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/ajax/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/basic/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/connected-carousels/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/data-attributes/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/responsive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/skeleton/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/transitions/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/ajax/jcarousel.ajax.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/ajax/jcarousel.ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/basic/jcarousel.basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/basic/jcarousel.basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/connected-carousels/jcarousel.connected-carousels.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/connected-carousels/jcarousel.connected-carousels.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/data-attributes/jcarousel.data-attributes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/data-attributes/jcarousel.data-attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/jcarousel.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/responsive/jcarousel.responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/responsive/jcarousel.responsive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/skeleton/jcarousel.skeleton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/skeleton/jcarousel.skeleton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/transitions/jcarousel.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/transitions/jcarousel.transitions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/libs/jquery-loader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/libs/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/libs/modernizr/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/pagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/plugin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/src/scrollintoview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/slick.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/slick.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick.jquery.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/slick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/slick.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/slick.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slick-1.3.15/slick/fonts/slick.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/start.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/examples/_shared/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/transitions.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/vertical.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsor-jcarousel-a3b8ae0/test/functional/wrap.html" />
+    <list default="true" id="233ba418-4bdc-40ee-abdb-21ab8080fc55" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/a11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/images/carousel/b05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/docs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index_old.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/jssor.slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SecuritySample.iml" afterPath="$PROJECT_DIR$/SecuritySample.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="security-spr.iws" />
@@ -126,11 +49,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="4454">
+              <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_old.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index_old.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.29142857" vertical-offset="0" max-vertical-offset="1122">
+              <caret line="6" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -183,13 +116,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sivalabs/springapp/config/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/style.css" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/home.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/js/SecuritySampleIndex.js" />
         <option value="$PROJECT_DIR$/src/main/webapp/resources/css/SecuritySampleIndex.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/wade/security/sample2/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
       </list>
     </option>
   </component>
@@ -262,6 +195,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -315,10 +250,6 @@
               <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -342,33 +273,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="security-spr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SecuritySample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,8 +297,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -418,6 +321,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\SecuritySample\src\main\webapp\WEB-INF\jsp" />
       <recent name="C:\projects\SecuritySample\src\main\webapp\resources" />
       <recent name="C:\projects\SecuritySample\src\main\webapp\resources\images" />
       <recent name="C:\projects\SecuritySample\src\main\webapp\resources\css" />
@@ -741,7 +645,8 @@
       <workItem from="1421441647867" duration="32000" />
       <workItem from="1421460563786" duration="95000" />
       <workItem from="1421520374363" duration="655000" />
-      <workItem from="1421617799228" duration="108000" />
+      <workItem from="1421617799228" duration="197000" />
+      <workItem from="1421634151925" duration="2670000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;.idea/artifacts/QBPortal_war.xml&#10;&#9;.idea/artifacts/QBPortal_war_exploded.xml&#10;&#9;.idea/workspace.xml&#10;">
       <created>1420165192770</created>
@@ -827,14 +732,20 @@
       <option name="project" value="LOCAL" />
       <updated>1421419670443</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="working slide show">
+      <created>1421617918844</created>
+      <option name="number" value="00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1421617918844</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32859000" />
+    <option name="totallyTimeSpent" value="35618000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31516185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -846,8 +757,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09969789" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14199395" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -859,13 +771,12 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39523" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60702527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -902,6 +813,14 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
@@ -1022,13 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.49607843" vertical-offset="3245" max-vertical-offset="9775">
-          <caret line="176" column="53" selection-start-line="176" selection-start-column="28" selection-end-line="176" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/css/SecuritySample.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="577">
@@ -1036,10 +948,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jssor.carousel.slider.for.bootstrap.example/examples-bootstrap/bootstrap-slider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.038462" vertical-offset="5443" max-vertical-offset="5780">
+          <caret line="334" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="334" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7436709" vertical-offset="3420" max-vertical-offset="9792">
+          <caret line="215" column="3" selection-start-line="215" selection-start-column="3" selection-end-line="215" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/jssor.slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="316">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="4454">
+          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index_old.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29142857" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="6" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
